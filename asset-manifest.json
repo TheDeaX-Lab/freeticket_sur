@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/freeticket_sur/static/css/main.2cce8147.chunk.css",
+    "main.js": "/freeticket_sur/static/js/main.7fc65beb.chunk.js",
+    "main.js.map": "/freeticket_sur/static/js/main.7fc65beb.chunk.js.map",
+    "runtime~main.js": "/freeticket_sur/static/js/runtime~main.3c5b6537.js",
+    "runtime~main.js.map": "/freeticket_sur/static/js/runtime~main.3c5b6537.js.map",
+    "static/css/2.df74c4db.chunk.css": "/freeticket_sur/static/css/2.df74c4db.chunk.css",
+    "static/js/2.d5409bf5.chunk.js": "/freeticket_sur/static/js/2.d5409bf5.chunk.js",
+    "static/js/2.d5409bf5.chunk.js.map": "/freeticket_sur/static/js/2.d5409bf5.chunk.js.map",
+    "index.html": "/freeticket_sur/index.html",
+    "precache-manifest.d6a2c6d096fe97a6104492ca38a6d54c.js": "/freeticket_sur/precache-manifest.d6a2c6d096fe97a6104492ca38a6d54c.js",
+    "service-worker.js": "/freeticket_sur/service-worker.js",
+    "static/css/2.df74c4db.chunk.css.map": "/freeticket_sur/static/css/2.df74c4db.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/freeticket_sur/static/css/main.2cce8147.chunk.css.map",
+    "static/media/semantic.min.css": "/freeticket_sur/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
